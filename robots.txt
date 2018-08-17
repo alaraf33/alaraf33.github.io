@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap:http://apexx.xyz/sitemap.xml

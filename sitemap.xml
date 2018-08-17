@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://apexx.xyz/</loc>
+  <lastmod>2017-12-03T13:07:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/HTML_CSS.pdf</loc>
+  <lastmod>2017-12-03T13:07:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/CSS.pdf</loc>
+  <lastmod>2017-12-03T14:00:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/Bootstrap.pdf</loc>
+  <lastmod>2017-12-03T13:07:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/SQL.pdf</loc>
+  <lastmod>2017-12-03T14:00:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/PHP.pdf</loc>
+  <lastmod>2017-12-03T13:08:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/Java_Script.pdf</loc>
+  <lastmod>2017-12-03T14:00:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/Perl.pdf</loc>
+  <lastmod>2017-12-03T13:08:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/Python.pdf</loc>
+  <lastmod>2017-12-03T13:08:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/oracle.pdf</loc>
+  <lastmod>2017-12-03T13:08:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/PLUS_PLUS.pdf</loc>
+  <lastmod>2017-12-03T13:08:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://apexx.xyz/books/wordpress.pdf</loc>
+  <lastmod>2017-12-03T13:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
